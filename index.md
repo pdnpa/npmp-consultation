@@ -9,6 +9,13 @@ Using data, analysis and expert opinion, we identified 16 issues facing the Peak
 *	Any further comments or additional issues not identified?
 
 
+## What are the main issues you think we should focus on in the next National Park Management Plan?
+
+### Overall
+The level of overall agreement with the issues facing the National Park was high, with more than half of all respondents seeing each issue as important for the NPMP.  
+
+**Figure 1: What are the main issues you think we should focus on in the next National Park Management Plan? (n=1,515)**
+
 ```chart
 {
    "type":"line",
