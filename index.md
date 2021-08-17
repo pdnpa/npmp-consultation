@@ -1,4 +1,6 @@
-
+---
+sidebar: false
+---
 
 # NPMP Consultation Responses 2021
 
