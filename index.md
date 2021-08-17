@@ -1,3 +1,76 @@
 
 
 # NPMP Consultation Responses 2021
+
+```chart
+{
+   "type":"line",
+   "data":{
+      "labels":[
+         "JAN",
+         "FEB",
+         "MAR",
+         "APR",
+         "MAY",
+         "JUN",
+         "JUL",
+         "AUG",
+         "SEP",
+         "OCT",
+         "NOV",
+         "DEC"
+      ],
+      "datasets":[
+         {
+            "label":"Visitor Days",
+            "fill":false,
+            "data":[
+               0.4,
+               0.55,
+               0.6,
+               1.08,
+               1.16,
+               1.01,
+               1.2,
+               1.16,
+               1.17,
+               0.81,
+               0.63,
+               0.51
+            ],
+            "borderColor":"#B14B60",
+            "backgroundColor":"#B14B60"
+         }
+      ]
+   },
+   "options":{
+     "plugins":{
+       "datalabels":false},
+      "responsive":true,
+      "tooltips":{
+         "mode":"index",
+         "intersect":true
+      },
+      "scales":{
+         "yAxes":[
+            {
+               "stacked":false,
+               "scaleLabel":{
+                  "display":true,
+                  "labelString":"Millions (2019)"
+               }
+            }
+         ],
+         "xAxes":[
+            {
+               "stacked":true,
+               "ticks":{
+                  "maxRotation":90,
+                  "minRotation":90
+               }
+            }
+         ]
+      }
+   }
+}
+```
