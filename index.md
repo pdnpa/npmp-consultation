@@ -66,8 +66,15 @@ The level of overall agreement with the issues facing the National Park was high
         }]
    },
    "options":{
-     "plugins":{
-       "datalabels":false},
+      "plugins":{
+        "datalabels":false,
+         "legend":{
+            "display":false,
+            "labels":{
+               "sort":""
+            }
+         }
+      },
       "responsive":true,
       "tooltips":{
          "mode":"index",
@@ -77,19 +84,20 @@ The level of overall agreement with the issues facing the National Park was high
          "yAxes":[
             {
                "stacked":true
-               }
-            ],
+            }
+         ],
          "xAxes":[
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
-                  "max": 100}
-                }
-            ]
-          }
-        }
+                  "min":-100,
+                  "max":100
+               }
+            }
+         ]
       }
+   }
+}
 ```
 
 ### Residents
@@ -102,48 +110,140 @@ Again, the level of overall agreement with the issues facing the National Park w
    "type":"horizontalBar",
    "data":{
       "labels":[
-      "Addressing the decline in numbers of some wildlife species",
-      "Addressing nature recovery",
-      "Maintaining natural beauty",
-      "Enhancing our ecosystem services such as clean water and flood prevention",
-      "Encouraging enjoyment with understanding",
-      "Conserving the relative sense of tranquillity",
-      "Supporting farming practices that conserve and enhance the special qualities",
-      "Reducing carbon emissions",
-      "Developing resilience to climate change",
-      "Improving sustainable travel to and within the National Park",
-      "Supporting the Peak District economy post Covid-19",
-      "Improving the quality of dark skies",
-      "Supporting sustainable and thriving communities, including housing",
-      "Conserving and enhancing heritage assets (such as scheduled monuments and listed buildings)",
-      "Helping to provide access to local services and broadband",
-      "Supporting the diversity of our audience so everyone can enjoy the place"
+         "Addressing the decline in numbers of some wildlife species",
+         "Addressing nature recovery",
+         "Maintaining natural beauty",
+         "Enhancing our ecosystem services such as clean water and flood prevention",
+         "Encouraging enjoyment with understanding",
+         "Conserving the relative sense of tranquillity",
+         "Supporting farming practices that conserve and enhance the special qualities",
+         "Reducing carbon emissions",
+         "Developing resilience to climate change",
+         "Improving sustainable travel to and within the National Park",
+         "Supporting the Peak District economy post Covid-19",
+         "Improving the quality of dark skies",
+         "Supporting sustainable and thriving communities, including housing",
+         "Conserving and enhancing heritage assets",
+         "Helping to provide access to local services and broadband",
+         "Supporting the diversity of our audience so everyone can enjoy the place"
       ],
-      "datasets":[{
-        "label":"Not important",
-        "data":[0,0,-1,-1,-1,-1,-3,-2,-3,-5,-3,-2,-4,-3,-6,-11],
-        "backgroundColor":"#C00000"
-        },{
-        "label":"Less important",
-        "data":[-2,-2,-3,-5,-8,-10,-8,-10,-8,-13,-17,-19,-22,-25,-28,-26],
-        "backgroundColor":"#FF9966"
-        },{
-        "label":"No opinion",
-        "data": [0,2,0,2,1,1,1,2,2,2,2,8,2,2,2,2],
-        "backgroundColor":"#C0C0C0"
-        },{
-        "label":"Important",
-        "data":[27,32,34,48,52,52,46,41,41,48,54,54,45,49,42,43],
-        "backgroundColor":"#B4C7E7"
-        },{
-        "label":"Absolute priority",
-        "data":[70,65,61,45,40,37,42,47,46,34,25,21,29,23,23,19],
-        "backgroundColor":"#0529AF"
-        }]
+      "datasets":[
+         {
+            "label":"Not important",
+            "data":[
+               0,
+               0,
+               1,
+               1,
+               1,
+               1,
+               3,
+               2,
+               3,
+               5,
+               3,
+               2,
+               4,
+               3,
+               6,
+               11
+            ],
+            "backgroundColor":"#C00000"
+         },
+         {
+            "label":"Less important",
+            "data":[
+               2,
+               2,
+               3,
+               5,
+               8,
+               10,
+               8,
+               10,
+               8,
+               13,
+               17,
+               19,
+               22,
+               25,
+               28,
+               26
+            ],
+            "backgroundColor":"#FF9966"
+         },
+         {
+            "label":"No opinion",
+            "data":[
+               0,
+               2,
+               0,
+               2,
+               1,
+               1,
+               1,
+               2,
+               2,
+               2,
+               2,
+               8,
+               2,
+               2,
+               2,
+               2
+            ],
+            "backgroundColor":"#C0C0C0"
+         },
+         {
+            "label":"Important",
+            "data":[
+               27,
+               32,
+               34,
+               48,
+               52,
+               52,
+               46,
+               41,
+               41,
+               48,
+               54,
+               54,
+               45,
+               49,
+               42,
+               43
+            ],
+            "backgroundColor":"#B4C7E7"
+         },
+         {
+            "label":"Absolute priority",
+            "data":[
+               70,
+               65,
+               61,
+               45,
+               40,
+               37,
+               42,
+               47,
+               46,
+               34,
+               25,
+               21,
+               29,
+               23,
+               23,
+               19
+            ],
+            "backgroundColor":"#0529AF"
+         }
+      ]
    },
    "options":{
-     "plugins":{
-       "datalabels":false},
+      "plugins":{
+         "datalabels":false
+      },
       "responsive":true,
       "tooltips":{
          "mode":"index",
@@ -153,19 +253,20 @@ Again, the level of overall agreement with the issues facing the National Park w
          "yAxes":[
             {
                "stacked":true
-               }
-            ],
+            }
+         ],
          "xAxes":[
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
-                  "max": 100}
-                }
-            ]
-          }
-        }
+                  "min":0,
+                  "max":100
+               }
+            }
+         ]
       }
+   }
+}
 ```
 
 ###	Visitors
@@ -178,53 +279,140 @@ Again, the level of overall agreement with the issues facing the National Park w
    "type":"horizontalBar",
    "data":{
       "labels":[
-      "Addressing nature recovery",
-      "Addressing the decline in numbers of some wildlife species",
-      "Enhancing our ecosystem services such as clean water and flood prevention",
-      "Developing resilience to climate change",
-      "Maintaining natural beauty",
-      "Encouraging enjoyment with understanding",
-      "Reducing carbon emissions",
-      "Improving sustainable travel to and within the National Park",
-      "Conserving the relative sense of tranquillity",
-      "Supporting farming practices that conserve and enhance the special qualities",
-      "Improving the quality of dark skies",
-      "Supporting the diversity of our audience so everyone can enjoy the place",
-      "Supporting the Peak District economy post Covid-19",
-      "Supporting sustainable and thriving communities, including housing",
-      "Conserving and enhancing heritage assets (such as scheduled monuments and listed buildings)",
-      "Helping to provide access to local services and broadband"
+         "Addressing nature recovery",
+         "Addressing the decline in numbers of some wildlife species",
+         "Enhancing our ecosystem services such as clean water and flood prevention",
+         "Developing resilience to climate change",
+         "Maintaining natural beauty",
+         "Encouraging enjoyment with understanding",
+         "Reducing carbon emissions",
+         "Improving sustainable travel to and within the National Park",
+         "Conserving the relative sense of tranquillity",
+         "Supporting farming practices that conserve and enhance the special qualities",
+         "Improving the quality of dark skies",
+         "Supporting the diversity of our audience so everyone can enjoy the place",
+         "Supporting the Peak District economy post Covid-19",
+         "Supporting sustainable and thriving communities, including housing",
+         "Conserving and enhancing heritage assets",
+         "Helping to provide access to local services and broadband"
       ],
-      "datasets":[{
-          "label":"Not important",
-          "data":[0,0,-1,-1,-1,0,-2,-2,-1,-4,-3,-5,-6,-6,-5,-8],
-          "backgroundColor":"#C00000",
-          "order":2
-          },{
-          "label":"Less important",
-          "data":[-1,-2,-6,-6,-7,-8,-9,-12,-15,-16,-21,-20,-21,-25,-30,-37],
-          "backgroundColor":"#FF9966",
-          "order":1
-          },{
-          "label":"No opinion",
-          "data": [1,1,4,3,4,3,3,1,3,7,7,5,7,5,3,8],
-          "backgroundColor":"#C0C0C0",
-          "order":3
-          },{
-          "label":"Important",
-          "data":[25,23,45,39,38,56,37,52,55,43,56,51,55,52,49,43],
-          "backgroundColor":"#B4C7E7",
-          "order":4
-          },{
-          "label":"Absolute priority",
-          "data":[73,75,47,52,53,34,50,32,27,34,17,22,15,14,15,8],
-          "backgroundColor":"#0529AF",
-          "order":5
-        }]
+      "datasets":[
+         {
+            "label":"Not important",
+            "data":[
+               0,
+               0,
+               1,
+               1,
+               1,
+               0,
+               2,
+               2,
+               1,
+               4,
+               3,
+               5,
+               6,
+               6,
+               5,
+               8
+            ],
+            "backgroundColor":"#C00000"
+         },
+         {
+            "label":"Less important",
+            "data":[
+               1,
+               2,
+               6,
+               6,
+               7,
+               8,
+               9,
+               12,
+               15,
+               16,
+               21,
+               20,
+               21,
+               25,
+               30,
+               37
+            ],
+            "backgroundColor":"#FF9966"
+         },
+         {
+            "label":"No opinion",
+            "data":[
+               1,
+               1,
+               4,
+               3,
+               4,
+               3,
+               3,
+               1,
+               3,
+               7,
+               7,
+               5,
+               7,
+               5,
+               3,
+               8
+            ],
+            "backgroundColor":"#C0C0C0"
+         },
+         {
+            "label":"Important",
+            "data":[
+               25,
+               23,
+               45,
+               39,
+               38,
+               56,
+               37,
+               52,
+               55,
+               43,
+               56,
+               51,
+               55,
+               52,
+               49,
+               43
+            ],
+            "backgroundColor":"#B4C7E7"
+         },
+         {
+            "label":"Absolute priority",
+            "data":[
+               73,
+               75,
+               47,
+               52,
+               53,
+               34,
+               50,
+               32,
+               27,
+               34,
+               17,
+               22,
+               15,
+               14,
+               15,
+               8
+            ],
+            "backgroundColor":"#0529AF"
+         }
+      ]
    },
    "options":{
-     "plugins":{
-       "datalabels":false},
+      "plugins":{
+         "datalabels":false
+      },
       "responsive":true,
       "tooltips":{
          "mode":"index",
@@ -234,19 +422,20 @@ Again, the level of overall agreement with the issues facing the National Park w
          "yAxes":[
             {
                "stacked":true
-               }
-            ],
+            }
+         ],
          "xAxes":[
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
-                  "max": 100}
-                }
-            ]
-          }
-        }
+                  "min":0,
+                  "max":100
+               }
+            }
+         ]
       }
+   }
+}
 ```
 
 ###	Key themes emerging from responses
@@ -324,33 +513,54 @@ There were 1,427 respondents to this question with 54 respondents completely ski
    "type":"horizontalBar",
    "data":{
       "labels":[
-      "Addressing nature recovery",
-      "Addressing the decline in numbers of some wildlife species",
-      "Maintaining natural beauty",
-      "Encouraging enjoyment with understanding",
-      "Developing resilience to climate change",
-      "Supporting farming practices that conserve and enhance the special qualities",
-      "Improving sustainable travel to and within the National Park",
-      "Reducing carbon emissions",
-      "Conserving the relative sense of tranquillity",
-      "Enhancing our ecosystem services such as clean water and flood prevention",
-      "Supporting sustainable and thriving communities, including housing",
-      "Something else (write in comment box)",
-      "Supporting the diversity of our audience so everyone can enjoy the place",
-      "Conserving and enhancing heritage assets (such as scheduled monuments and listed buildings)",
-      "Supporting the Peak District economy post Covid-19",
-      "Improving the visibility of dark skies",
-      "Helping to provide access to local services and broadband"
+         "Addressing nature recovery",
+         "Addressing the decline in numbers of some wildlife species",
+         "Maintaining natural beauty",
+         "Encouraging enjoyment with understanding",
+         "Developing resilience to climate change",
+         "Supporting farming practices that conserve and enhance the special qualities",
+         "Improving sustainable travel to and within the National Park",
+         "Reducing carbon emissions",
+         "Conserving the relative sense of tranquillity",
+         "Enhancing our ecosystem services such as clean water and flood prevention",
+         "Supporting sustainable and thriving communities, including housing",
+         "Something else (write in comment box)",
+         "Supporting the diversity of our audience so everyone can enjoy the place",
+         "Conserving and enhancing heritage assets (such as scheduled monuments and listed buildings)",
+         "Supporting the Peak District economy post Covid-19",
+         "Improving the visibility of dark skies",
+         "Helping to provide access to local services and broadband"
       ],
-      "datasets":[{
-        "label":"Number of responses",
-        "data":[709,655,543,378,294,271,242,226,178,178,168,148,103,81,80,74,39],
-        "backgroundColor":"#000000"
-        }]
+      "datasets":[
+         {
+            "label":"Number of responses",
+            "data":[
+               709,
+               655,
+               543,
+               378,
+               294,
+               271,
+               242,
+               226,
+               178,
+               178,
+               168,
+               148,
+               103,
+               81,
+               80,
+               74,
+               39
+            ],
+            "backgroundColor":"#000000"
+         }
+      ]
    },
    "options":{
-     "plugins":{
-       "datalabels":false},
+      "plugins":{
+         "datalabels":false
+      },
       "responsive":true,
       "tooltips":{
          "mode":"index",
@@ -360,19 +570,20 @@ There were 1,427 respondents to this question with 54 respondents completely ski
          "yAxes":[
             {
                "stacked":false
-               }
-            ],
+            }
+         ],
          "xAxes":[
             {
                "stacked":false,
                "ticks":{
-                  "min": 0,
-                  "max": 800}
-                }
-            ]
-          }
-        }
+                  "min":0,
+                  "max":800
+               }
+            }
+         ]
       }
+   }
+}
 ```
 
 ### Do you have any other comments or priorities not listed?
