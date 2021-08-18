@@ -419,8 +419,8 @@ There were 393 comments in total, of which 114 were not relevant to the NPMP, as
 | 29        | nature      | 20        | open       |
 | 27        | environment | 20        | shooting   |
 
-|![Wordcloud](./wordcloud.png#img-right)|
-| --------- |
+![Wordcloud](./wordcloud.png#img-right)
+
 
 ## How we conducted the consultation
 The consultation was undertaken using an online survey and comprised of both open and closed questions. It was advertised on our website and via social media and was open between 20th May and 17th July 2021. It was open to the general public and no quotas or sample frames were employed.
