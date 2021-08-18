@@ -2,7 +2,7 @@ const reportConfig =
 {
 	"title": "NPMP Consultation Results 2021",
 	"themeConfig": {
-		"showSidebarHomepage": true,
+		"showSidebarHomepage": false,
 		"lastUpdated": false,
 		"sidebar": [
 			{
