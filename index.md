@@ -332,7 +332,7 @@ There were 1,427 respondents to this question with 54 respondents completely ski
       "Supporting sustainable and thriving communities, including housing",
       "Something else (write in comment box)",
       "Supporting the diversity of our audience so everyone can enjoy the place",
-      "Conserving and enhancing heritage assets (such as scheduled monuments and listed buildings)",
+      "Conserving and enhancing heritage assets",
       "Supporting the Peak District economy post Covid-19",
       "Improving the visibility of dark skies",
       "Helping to provide access to local services and broadband"
