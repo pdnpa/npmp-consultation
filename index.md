@@ -1,5 +1,5 @@
 ---
-sidebar: false
+sidebarDepth: 1
 ---
 
 # What you said about the future of the Peak District National Park
