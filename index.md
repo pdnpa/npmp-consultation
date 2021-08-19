@@ -255,7 +255,7 @@ Further responses were critical of current land management practices, with 55 co
 
 > “Absolute priority must be addressing climate issues, rewilding, stopping burning of the moors and grouse shooting, restoring peat lands & flower meadows, protecting habitats for curlews, lapwings and preventing persecution of all our wildlife”.
 
-There were 9 comments supporting the land management practice of grouse moor management and upland heather burning. 5 of these were supporting a statement that active management of moorlands decrease the threat of wildfire:
+There were 9 comments supporting the land management practice of grouse moor management and upland heather burning. 5 of these were supporting a statement that active management of moorlands decreases the threat of wildfire:
 
 > “Active mgt on moorland will be less damaging than the increase in damage from wildfires. The amount of money wasted in "green washing" is out of control, land managers have the answers through experience and knowledge learnt on the ground, they should be listened to”.
 
