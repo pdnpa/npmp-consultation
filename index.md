@@ -84,8 +84,7 @@ The level of overall agreement with the issues facing the National Park was high
                "stacked":true,
                "ticks":{
                   "min": -100,
-                  "max": 100,
-									callback: function(value){return value+ "%"}}
+                  "max": 100}
                 }
             ]
           }
