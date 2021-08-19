@@ -93,7 +93,7 @@ The level of overall agreement with the issues facing the National Park was high
 ```
 
 ### Residents
-Again, the level of overall agreement with the issues facing the National Park was high among residents, with more than half of all respondents seeing each issue as important for the NPMP. The issues that were viewed as the lowest priority were ‘helping to provide access to local services and broadband’ and ‘supporting diversity in our audience’, with over one third of residents selecting 'less important' or 'not important'. As with the overall results, residents agreed that nature, wildlife and maintaining natural beauty should be our highest priority. However, there were a significant number of open ended comments with the common theme of issues relating to housing and encouraging enjoyment with understanding.
+Again, the level of overall agreement with the issues facing the National Park was high among residents, with more than half of all respondents seeing each issue as important for the NPMP. The issues that were viewed as the lowest importance were ‘helping to provide access to local services and broadband’ and ‘supporting diversity in our audience’, with over one third of residents selecting 'less important' or 'not important'. As with the overall results, residents agreed that nature, wildlife and maintaining natural beauty should be the most important for the NPMP. However, there were a significant number of open ended comments with the common theme of issues relating to housing and encouraging enjoyment with understanding.
 
 *Figure 2: What are the main issues you think we should focus on in the next National Park Management Plan? (n=521 * Respondents that ticked ‘Resident’ only)*
 
