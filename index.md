@@ -307,7 +307,7 @@ However it may not have been seen as important for the NPMP, as other organisati
 
 > “Your focus should be on managing the Peak District National Park and not other issues that make it into the news (broadband access, etc ) - there are other agencies that (should / will) focus on that”
 
-## What are your top 3 priorities for the NPMP 2023-28?’
+## What are your top 3 priorities for the NPMP 2023-28?
 There were 1,427 respondents to this question with 54 respondents completely skipping the question. 44% of respondents’ top 3 priorities were addressing nature recovery, the decline in wildlife species and maintaining natural beauty. There were only 39 selections for ‘Helping to provide access to local services and broadband’.
 
 ![Top 3 priorities](./top.png)
@@ -371,7 +371,7 @@ There were 1,427 respondents to this question with 54 respondents completely ski
 ```
 
 ### Do you have any other comments or priorities not listed?
-There were 645 comments in total for this question with 148 selecting 'something else (write in comment box)’. No comments raised completely new issues omitted from the list. However, there were four comments from respondents that were related to health which wasn’t on the issues list provided in question 1.
+There were 645 comments in total for this question with 148 selecting 'something else (write in comment box)’. Although no respondent raised any new issues in question 1, when asked if there were any other comments in question 3, 4 respondents raised health as a new issue.
 
 > “There's nothing in here at all in your listed priorities about sports or health. Which makes me think that you're not even considering them. Which is a real shame.”
 
@@ -386,7 +386,7 @@ There were 393 comments in total, of which 114 were not relevant to the NPMP, as
 | --------------------- | ------------------ |
 | N/A                   | 114                |
 | Access & Recreation   | 80                 |
-| Wildlife & Habitat    | 46                 |
+| Wildlife & Habitats   | 46                 |
 | Engagement            | 36                 |
 | Land Management       | 33                 |
 | Sustainable Transport | 31                 |
@@ -395,7 +395,7 @@ There were 393 comments in total, of which 114 were not relevant to the NPMP, as
 | Natural Beauty        | 4                  |
 | Climate Change        | 3                  |
 | Ecosystem Services    | 2                  |
-| Tranquilly            | 1                  |
+| Tranquillity          | 1                  |
 | **Grand Total**       | **393**            |
 
 
@@ -631,7 +631,7 @@ We received 1,526 responses through the online survey. This was our largest resp
 
 Respondents were asked which of four categories best described them (visitor, resident, business owner or other). It is possible for respondents to identify with multiple categories; such as being a resident and a business owner for example. Therefore, the question was left open as ‘tick all that apply’. 18 respondents skipped this question, 236 answered more than one category and 1,272 answered one category. Further demographics of respondents were not collected as part of the survey as there were no sample quotas employed to the sample frame and we had no intention of using detailed demographic data to profile answers.
 
-*Figure 13: Who are you (tick all that apply) (n=1,508)*
+*Figure 13: Who are you? (tick all that apply) (n=1,508)*
 
 | **Who are you?** | **Percentage**  | **Number** |
 | ---------------- | --------------- | ---------- |
