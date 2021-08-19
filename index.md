@@ -45,11 +45,11 @@ The level of overall agreement with the issues facing the National Park was high
       ],
       "datasets":[{
           "label":"Less important",
-          "data":[-2,-2,-5,-6,-7,-7,-9,-14,-13,-12,-20,-20,-22,-21,-28,-33],
+          "data":[2,2,5,6,7,7,9,14,13,12,20,20,22,21,28,33],
           "backgroundColor":"#FF9966"
           },{
           "label":"Not important",
-          "data":[-0,-0,-1,-1,-1,-2,-2,-1,-3,-3,-3,-5,-5,-8,-4,-8],
+          "data":[0,0,1,1,1,2,2,1,3,3,3,5,5,8,4,8],
           "backgroundColor":"#C00000"
           },{
           "label":"No opinion",
@@ -83,7 +83,7 @@ The level of overall agreement with the issues facing the National Park was high
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
+                  "min": 0,
                   "max": 100}
                 }
             ]
@@ -121,11 +121,11 @@ Again, the level of overall agreement with the issues facing the National Park w
       ],
       "datasets":[{
         "label":"Not important",
-        "data":[0,0,-1,-1,-1,-1,-3,-2,-3,-5,-3,-2,-4,-3,-6,-11],
+        "data":[0,0,1,1,1,1,3,2,3,5,3,2,4,3,6,11],
         "backgroundColor":"#C00000"
         },{
         "label":"Less important",
-        "data":[-2,-2,-3,-5,-8,-10,-8,-10,-8,-13,-17,-19,-22,-25,-28,-26],
+        "data":[2,2,3,5,8,10,8,10,8,13,17,19,22,25,28,26],
         "backgroundColor":"#FF9966"
         },{
         "label":"No opinion",
@@ -159,7 +159,7 @@ Again, the level of overall agreement with the issues facing the National Park w
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
+                  "min": 0,
                   "max": 100}
                 }
             ]
@@ -197,29 +197,24 @@ Again, the level of overall agreement with the issues facing the National Park w
       ],
       "datasets":[{
           "label":"Not important",
-          "data":[0,0,-1,-1,-1,0,-2,-2,-1,-4,-3,-5,-6,-6,-5,-8],
-          "backgroundColor":"#C00000",
-          "order":2
+          "data":[0,0,1,1,1,0,2,2,1,4,3,5,6,6,5,8],
+          "backgroundColor":"#C00000"
           },{
           "label":"Less important",
-          "data":[-1,-2,-6,-6,-7,-8,-9,-12,-15,-16,-21,-20,-21,-25,-30,-37],
-          "backgroundColor":"#FF9966",
-          "order":1
+          "data":[1,2,6,6,7,8,9,12,15,16,21,20,21,25,30,37],
+          "backgroundColor":"#FF9966"
           },{
           "label":"No opinion",
           "data": [1,1,4,3,4,3,3,1,3,7,7,5,7,5,3,8],
-          "backgroundColor":"#C0C0C0",
-          "order":3
+          "backgroundColor":"#C0C0C0"
           },{
           "label":"Important",
           "data":[25,23,45,39,38,56,37,52,55,43,56,51,55,52,49,43],
-          "backgroundColor":"#B4C7E7",
-          "order":4
+          "backgroundColor":"#B4C7E7"
           },{
           "label":"Absolute priority",
           "data":[73,75,47,52,53,34,50,32,27,34,17,22,15,14,15,8],
-          "backgroundColor":"#0529AF",
-          "order":5
+          "backgroundColor":"#0529AF"
         }]
    },
    "options":{
@@ -240,7 +235,7 @@ Again, the level of overall agreement with the issues facing the National Park w
             {
                "stacked":true,
                "ticks":{
-                  "min": -100,
+                  "min": 0,
                   "max": 100}
                 }
             ]
