@@ -15,7 +15,7 @@ Using data, analysis and expert opinion, we identified 16 issues facing the Peak
 *	What are your top 3 priorities for the next National Park Management Plan?
 *	Any further comments or additional issues not identified?
 
-## What are the main issues you think we should focus on in the next National Park Management Plan?
+## Q1. What are the main issues you think we should focus on in the next National Park Management Plan?
 
 ### Overall
 The level of overall agreement with the issues facing the National Park was high, with more than half of all respondents seeing each issue as important for the NPMP.  
@@ -307,7 +307,7 @@ However it may not have been seen as important for the NPMP, as other organisati
 
 > “Your focus should be on managing the Peak District National Park and not other issues that make it into the news (broadband access, etc ) - there are other agencies that (should / will) focus on that”
 
-## What are your top 3 priorities for the NPMP 2023-28?
+## Q2. What are your top 3 priorities for the NPMP 2023-28?
 There were 1,427 respondents to this question with 54 respondents completely skipping the question. 44% of respondents’ top 3 priorities were addressing nature recovery, the decline in wildlife species and maintaining natural beauty. There were only 39 selections for ‘Helping to provide access to local services and broadband’.
 
 ![Top 3 priorities](./top.png)
@@ -377,7 +377,7 @@ There were 645 comments in total for this question with 148 selecting 'something
 
 There were 52 comments asking for greater access to open water recreation and a further 10 comments related to access and rights of way. 4 comments referencing local produce and green issues in shops, businesses or the economy which weren’t on the original issues list from question 1.
 
-## Do you have any other comments?
+## Q3. Do you have any other comments?
 There were 393 comments in total, of which 114 were not relevant to the NPMP, as they were along the lines of *“No comment”,* *“See above”* or such as *“keep up the good work”.* There were 80 further comments on access and recreation. Over half of  these were related to more access to open water swimming. However, it should be noted that the survey was shared to Facebook user group which boosted the sample size of respondents.  
 
 *Figure 5: Table of open text comments by issue (n = 393)*
