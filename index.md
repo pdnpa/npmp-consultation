@@ -247,7 +247,7 @@ Again, the level of overall agreement with the issues facing the National Park w
 ###	Key themes emerging from responses
 Over one third (526) of respondents provided further specific comments to their response. We have summarised the key themes below.
 
-*	**Addressing nature recovery and the decline of wildlife species are the most important issues:** In response to the quantitative question, 7 in 10 responses (72%) saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. No respondents thought this was ‘not important’ and only 2% thought this was ‘less important’. In total, 178 comments referred to nature recovery or the decline in wildlife species. Many were concerned with the lack of species, wildlife and habitats in the Peak District and 108 comments supported providing more opportunities for nature through rewilding or regeneration. As one respondent pointed out:
+**Addressing nature recovery and the decline of wildlife species are the most important issues:** In response to the quantitative question, 7 in 10 responses (72%) saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. No respondents thought this was ‘not important’ and only 2% thought this was ‘less important’. In total, 178 comments referred to nature recovery or the decline in wildlife species. Many were concerned with the lack of species, wildlife and habitats in the Peak District and 108 comments supported providing more opportunities for nature through rewilding or regeneration. As one respondent pointed out:
 
 > “Nature needs to be at the core of the new management for the park as it is the only practical solution to address the twin ecological and climate crises. This can be achieved through large scale Rewilding, nature conservation of priority habitats and sites and nature friendly farming”.
 
@@ -259,11 +259,11 @@ There were 9 comments supporting the land management practice of grouse moor man
 
 > “Active mgt on moorland will be less damaging than the increase in damage from wildfires. The amount of money wasted in "green washing" is out of control, land managers have the answers through experience and knowledge learnt on the ground, they should be listened to”.
 
-*	**Maintaining natural beauty and enhancing our ecosystems should be focused on a wilder Peak District:** In response to the quantitative question, 9 in 10 respondents thought maintaining natural beauty should be ‘important’ or our ‘top priority’. There were 27 comments specifically relating to natural beauty and responses were varied from issues with access to the definition of what it means. However, the overwhelming number of comments were how natural beauty relates to nature recovery and management of the National Park. As one respondent suggested:
+**Maintaining natural beauty and enhancing our ecosystems should be focused on a wilder Peak District:** In response to the quantitative question, 9 in 10 respondents thought maintaining natural beauty should be ‘important’ or our ‘top priority’. There were 27 comments specifically relating to natural beauty and responses were varied from issues with access to the definition of what it means. However, the overwhelming number of comments were how natural beauty relates to nature recovery and management of the National Park. As one respondent suggested:
 
 > “I would like to see a much wilder, natural landscape with more native woodland.  I put less important for "maintaining natural beauty" not because I don't think it is important but because I don't think much of the peak district is natural landscape”.
 
-*	**Encouraging enjoyment with understanding is key to delivering positive outcomes for the Peak District:** Again, in response to the quantitative question, 9 in 10 respondents thought this should be ‘important’ or our ‘top priority’. A large number of comments (79) were related to visiting and enjoyment in the National Park. These were wide ranging comments but were centred on visitor behaviour or pressure on National Park communities. As one respondent stated:
+**Encouraging enjoyment with understanding is key to delivering positive outcomes for the Peak District:** Again, in response to the quantitative question, 9 in 10 respondents thought this should be ‘important’ or our ‘top priority’. A large number of comments (79) were related to visiting and enjoyment in the National Park. These were wide ranging comments but were centred on visitor behaviour or pressure on National Park communities. As one respondent stated:
 
 > “I believe they are all important, but the reason I placed 'Encouraging enjoyment with understanding' above the others is because it holds the key to many of the other issues.  If people understand and amend their behaviour accordingly, whether residents, businesses or visitors, they will help to underpin the achievement of the other objectives”.
 
@@ -271,7 +271,7 @@ Many respondents thought educating visitors would help alleviate many of the pre
 
 > “I would like to see a more effort made in encouraging visitors to leave the Park immaculate - no littering, no anti-social behaviour, no parking inconsiderately, no BBQs.
 
-*	**Developing resilience to climate change and reducing emissions were seen as priority:** There was similar agreement between visitors (91%) and residents (88%) in response to the quantitative question that this saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There was an agreement from respondents that climate change and reducing emissions should be a cross cutting theme across all our issues and decisions. Such as:
+**Developing resilience to climate change and reducing emissions were seen as priority:** There was similar agreement between visitors (91%) and residents (88%) in response to the quantitative question that this saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There was an agreement from respondents that climate change and reducing emissions should be a cross cutting theme across all our issues and decisions. Such as:
 
 > “Unless we address climate change and loss of biodiversity everything else will fail”.
 
@@ -279,11 +279,11 @@ Many respondents thought educating visitors would help alleviate many of the pre
 
 > “Climate change and nature recovery should underpin all policies and decision making”.
 
-*	**Tranquillity and dark night skies are viewed as under threat by respondents:** In response to the quantitative question, both residents and visitors felt ‘tranquillity’ was of more importance over ‘dark night skies’. However, three quarters still agreed that ‘dark night skies’ saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There were few comments about tranquillity’ and ‘dark night skies. Comments were quite specific to vehicle use:
+**Tranquillity and dark night skies are viewed as under threat by respondents:** In response to the quantitative question, both residents and visitors felt ‘tranquillity’ was of more importance over ‘dark night skies’. However, three quarters still agreed that ‘dark night skies’ saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There were few comments about tranquillity’ and ‘dark night skies. Comments were quite specific to vehicle use:
 
 > “Motorcycle noise is intrusive - cars would be prosecuted with noise levels like those in the Hope Valley”
 
-*	**Sustainable travel is important for climate change as well as visiting the National Park in a responsible way:** In response to the quantitative question, 8 in 10 respondents thought this should be a priority with 33% selecting ‘top priority’ and 49% selecting 'important'. There were 77 comments about ‘improving sustainable travel to and within the National Park’. The majority (60) of comments, were focused on public transport, better sustainable access to the Park such as buses or cycle paths and carbon free transport.  
+**Sustainable travel is important for climate change as well as visiting the National Park in a responsible way:** In response to the quantitative question, 8 in 10 respondents thought this should be a priority with 33% selecting ‘top priority’ and 49% selecting 'important'. There were 77 comments about ‘improving sustainable travel to and within the National Park’. The majority (60) of comments, were focused on public transport, better sustainable access to the Park such as buses or cycle paths and carbon free transport.  
 
 > “Please put active travel at the heart of everything you do and if you believe that climate change is real and that too many car journeys is a big contributor, then have the courage to say so”.
 
@@ -291,11 +291,11 @@ Vehicle numbers increasing from visitors was also mentioned as a problem:
 
 > “An improved public transport network especially from Macclesfield may help to reduce the ridiculous numbers of cars that choke up many beauty spots every time the sun shines”.
 
-*	**Residents see housing as a top priority for maintaining healthy villages and communities:** In response to the quantitative question, 7 in 10 of all respondents and 73% of ‘resident’ respondents thought housing was an important issue. Many detailed comments related to addressing the issue of second homes and holiday accommodation as a factor in ensuring housing supply is available and that the market is not inflated.
+**Residents see housing as a top priority for maintaining healthy villages and communities:** In response to the quantitative question, 7 in 10 of all respondents and 73% of ‘resident’ respondents thought housing was an important issue. Many detailed comments related to addressing the issue of second homes and holiday accommodation as a factor in ensuring housing supply is available and that the market is not inflated.
 
 > “I think that thriving communities are important. However, I am wary of saying this when it is linked to housing. Rather than building lots more housing it would be good to restrict second home ownership to ensure existing housing stock is not priced above what people can afford, and that good homes do not stand empty for long periods. Equally holiday rentals are decimating village populations”.
 
-*	**Broadband and local services is a priority but both visitors and residents scored it low:** In response to the quantitative question, one third of residents thought “helping to provide access to local services and broadband” was 'not important' or 'less important'. This was even higher in visitors (45%). There were few comments relating to this issue, although some thought that community services were integral to a sustainable National Park:
+**Broadband and local services is a priority but both visitors and residents scored it low:** In response to the quantitative question, one third of residents thought “helping to provide access to local services and broadband” was 'not important' or 'less important'. This was even higher in visitors (45%). There were few comments relating to this issue, although some thought that community services were integral to a sustainable National Park:
 
 > “The National Park is about people - created and maintained by the people that live and work here.  So for a sustainable future, local communities and businesses must be supported to thrive.  That means supporting jobs, houses and broadband above all else”.
 
