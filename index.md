@@ -44,13 +44,13 @@ The level of overall agreement with the issues facing the National Park was high
       "Helping to provide access to local services and broadband"
       ],
       "datasets":[{
-          "label":"Less important",
-          "data":[2,2,5,6,7,7,9,14,13,12,20,20,22,21,28,33],
-          "backgroundColor":"#FF9966"
-          },{
           "label":"Not important",
           "data":[0,0,1,1,1,2,2,1,3,3,3,5,5,8,4,8],
           "backgroundColor":"#C00000"
+          },{
+          "label":"Less important",
+          "data":[2,2,5,6,7,7,9,14,13,12,20,20,22,21,28,33],
+          "backgroundColor":"#FF9966"
           },{
           "label":"No opinion",
           "data": [0,1,1,1,1,1,1,1,1,2,4,2,2,2,1,3],
@@ -271,7 +271,7 @@ Many respondents thought educating visitors would help alleviate many of the pre
 
 > “I would like to see a more effort made in encouraging visitors to leave the Park immaculate - no littering, no anti-social behaviour, no parking inconsiderately, no BBQs.
 
-**Developing resilience to climate change and reducing emissions were seen as priority:** There was similar agreement between visitors (91%) and residents (88%) in response to the quantitative question that this saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There was an agreement from respondents that climate change and reducing emissions should be a cross cutting theme across all our issues and decisions. Such as:
+**Developing resilience to climate change and reducing emissions were seen as priority:** There was similar agreement between visitors (91%) and residents (88%) in response to the quantitative question that this saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There was agreement from respondents that climate change and reducing emissions should be a cross cutting theme across all our issues and decisions. Such as:
 
 > “Unless we address climate change and loss of biodiversity everything else will fail”.
 
@@ -279,23 +279,23 @@ Many respondents thought educating visitors would help alleviate many of the pre
 
 > “Climate change and nature recovery should underpin all policies and decision making”.
 
-**Tranquillity and dark night skies are viewed as under threat by respondents:** In response to the quantitative question, both residents and visitors felt ‘tranquillity’ was of more importance over ‘dark night skies’. However, three quarters still agreed that ‘dark night skies’ saw these issues as ‘important’ or our ‘top priority’ for the NPMP 2023-28. There were few comments about tranquillity’ and ‘dark night skies. Comments were quite specific to vehicle use:
+**Tranquillity and dark night skies are viewed as under threat by respondents:** In response to the quantitative question, both residents and visitors felt ‘tranquillity’ was of more importance than ‘dark night skies’. However, three quarters still agreed that ‘dark night skies’ saw these issues as ‘important’ or the ‘top priority’ for the NPMP 2023-28. There were few comments about tranquillity’ and ‘dark night skies. Comments were quite specific to vehicle use:
 
 > “Motorcycle noise is intrusive - cars would be prosecuted with noise levels like those in the Hope Valley”
 
-**Sustainable travel is important for climate change as well as visiting the National Park in a responsible way:** In response to the quantitative question, 8 in 10 respondents thought this should be a priority with 33% selecting ‘top priority’ and 49% selecting 'important'. There were 77 comments about ‘improving sustainable travel to and within the National Park’. The majority (60) of comments, were focused on public transport, better sustainable access to the Park such as buses or cycle paths and carbon free transport.  
+**Sustainable travel is important for climate change as well as visiting the National Park in a responsible way:** In response to the quantitative question, 82% of respondents thought this should be a priority with 33% selecting ‘top priority’ and 49% selecting 'important'. There were 77 comments about ‘improving sustainable travel to and within the National Park’. The majority (60) of comments, were focused on public transport, better sustainable access to the Park such as buses or cycle paths and carbon free transport.  
 
 > “Please put active travel at the heart of everything you do and if you believe that climate change is real and that too many car journeys is a big contributor, then have the courage to say so”.
 
-Vehicle numbers increasing from visitors was also mentioned as a problem:
+Vehicle numbers increasing from visitors was also mentioned as a perceived problem:
 
 > “An improved public transport network especially from Macclesfield may help to reduce the ridiculous numbers of cars that choke up many beauty spots every time the sun shines”.
 
-**Residents see housing as a top priority for maintaining healthy villages and communities:** In response to the quantitative question, 7 in 10 of all respondents and 73% of ‘resident’ respondents thought housing was an important issue. Many detailed comments related to addressing the issue of second homes and holiday accommodation as a factor in ensuring housing supply is available and that the market is not inflated.
+**Residents see housing as important for maintaining healthy villages and communities:** In response to the quantitative question, 7 in 10 of all respondents and 73% of resident respondents thought housing was an important issue. Many detailed comments related to addressing the issue of second homes and holiday accommodation as a factor in ensuring housing supply is available and that the market is not inflated.
 
 > “I think that thriving communities are important. However, I am wary of saying this when it is linked to housing. Rather than building lots more housing it would be good to restrict second home ownership to ensure existing housing stock is not priced above what people can afford, and that good homes do not stand empty for long periods. Equally holiday rentals are decimating village populations”.
 
-**Broadband and local services is a priority but both visitors and residents scored it low:** In response to the quantitative question, one third of residents thought “helping to provide access to local services and broadband” was 'not important' or 'less important'. This was even higher in visitors (45%). There were few comments relating to this issue, although some thought that community services were integral to a sustainable National Park:
+**Two thirds of respondents thought Broadband and local services were important:** In response to the quantitative question, one third of residents thought “helping to provide access to local services and broadband” was 'not important' or 'less important'. This was even higher in visitors (45%). There were few comments relating to this issue, although some thought that community services were integral to a sustainable National Park:
 
 > “The National Park is about people - created and maintained by the people that live and work here.  So for a sustainable future, local communities and businesses must be supported to thrive.  That means supporting jobs, houses and broadband above all else”.
 
@@ -378,13 +378,13 @@ There were 645 comments in total for this question with 148 selecting 'something
 There were 52 comments asking for greater access to open water recreation and a further 10 comments related to access and rights of way. 4 comments referencing local produce and green issues in shops, businesses or the economy which weren’t on the original issues list from question 1.
 
 ## Q3. Do you have any other comments?
-There were 393 comments in total, of which 114 were not relevant to the NPMP, as they were along the lines of *“No comment”,* *“See above”* or such as *“keep up the good work”.* There were 80 further comments on access and recreation. Over half of  these were related to more access to open water swimming. However, it should be noted that the survey was shared to Facebook user group which boosted the sample size of respondents.  
+There were 393 comments in total, of which 114 were not relevant to the NPMP, as they were along the lines of *“No comment”,* *“See above”* or such as *“keep up the good work”.* There were 80 further comments on access and recreation. Over half of  these were related to more access to open water swimming. However, it should be noted that the survey was shared to Facebook user group for open water swimming in Derbyshire which boosted the sample size of respondents.  
 
 *Figure 5: Table of open text comments by issue (n = 393)*
 
 | **Row Labels**        | **Count of Issue** |
 | --------------------- | ------------------ |
-| N/A                   | 114                |
+| Not relevant          | 114                |
 | Access & Recreation   | 80                 |
 | Wildlife & Habitats   | 46                 |
 | Engagement            | 36                 |
@@ -459,10 +459,10 @@ The consultation was promoted in the following ways:
 | 25 June  | 980             | 47             |
 | 16 July  | 372             | 16             |
 
-It was promoted on the websites of Yorkshire Water, Staffordshire Moorlands District Council and High Peak Borough Council. It was circulated by the Peak Park Parishes Forum to their contacts and to individuals who had registered an interest in being consulted on future proposals with the PDNPA Planning Service. A presentation was given to the PDNP youth forum and the survey was promoted via the PDNP Engagement Service to local schools and community contacts.
+It was promoted on the websites of Yorkshire Water, Staffordshire Moorlands District Council and High Peak Borough Council. It was circulated by the Peak Park Parishes Forum to their contacts and to individuals who had registered an interest in being consulted on future proposals with the Authority Planning Service. A presentation was given to the Authority youth forum and the survey was promoted via the Authority Engagement Service to local schools and community contacts.
 
 ### Who responded to the consultation?
-We received 1,526 responses through the online survey. This was our largest response in number of responses to a consultation survey to date. A massive 19% (285) of responses were received in the first two days of the survey being open and 247 (16%) responses were received on the final two days of the consultation. Spikes in responses were correlated with promotional / social media push dates as seen in the graph below.
+We received 1,526 responses through the online survey. This was our largest response in number of responses to a consultation survey on the NPMP to date. A massive 19% (285) of responses were received in the first two days of the survey being open and 247 (16%) responses were received on the final two days of the consultation. Spikes in responses were correlated with promotional / social media push dates as seen in the graph below.
 
 *Figure 12: Social Media responses by date*
 
